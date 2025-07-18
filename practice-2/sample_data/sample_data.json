@@ -1,0 +1,24 @@
+{
+  "knowledge_base": [
+    {
+      "question": "What is Python?",
+      "answer": "PrashantPython is a high-level, interpreted programming language known for its simplicity and readability."
+    },
+    {
+      "question": "What is MCP?",
+      "answer": "MCP stands for Modular Communication Protocol, used for structured communication between systems."
+    },
+    {
+      "question": "How do you create a virtual environment in Python?",
+      "answer": "You can create a virtual environment using the command `python -m venv <env_name>`."
+    },
+    {
+      "question": "What is JSON?",
+      "answer": "JSON stands for JavaScript Object Notation, a lightweight data-interchange format that is easy for humans to read and write."
+    },
+    {
+      "question": "What is the purpose of a .gitignore file?",
+      "answer": "A .gitignore file specifies files and directories that should be ignored by Git version control."
+    }
+  ]
+}
